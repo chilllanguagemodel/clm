@@ -1,0 +1,9 @@
+
+agent:
+  personality: Chill
+  tone: Relaxed
+  depth_of_analysis: Medium
+
+api:
+  openai_key: "YOUR_OPENAI_API_KEY"
+  financial_api_key: "YOUR_FINANCIAL_API_KEY"
