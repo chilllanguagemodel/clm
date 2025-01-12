@@ -21,8 +21,8 @@ $CLM is a unique AI agent that combines financial insights with a laid-back pers
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ChillLanguageModel.git
-cd ChillLanguageModel
+git clone github.com/chilllanguagemodel/clm
+cd clm
 ```
 
 2. Install dependencies:
